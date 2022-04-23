@@ -1,0 +1,166 @@
+@font-face {
+    font-family: "sacramento" ;
+    src: url(./font/Sacramento-Regular.ttf);
+}
+@font-face {
+    font-family: "lato";
+    src:url(./font/Lato-Regular.ttf)
+}
+.body{ 
+    font-family:"sacramento";
+    }
+.margin{
+    margin: 0px;
+}
+.titulo{font-size: 72px;
+    color: #8c52ff;
+    padding-top: 0px;
+    margin: 0px;
+    
+}
+.logo{
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 25px;
+}
+.negrita{
+    font-weight: bold;
+}
+.main{ font-size: 60px;
+    color: #8c52ff;
+    text-align: center;
+    font-weight: lighter;
+}   
+.fondo{background-color: #ffd4d7;
+}
+main h1 p{
+    font-size: 36px;
+    text-align: center;
+    color: #8c52ff;
+}
+
+.tituloArticulo{    
+    font-size: 36px;
+    text-align: left;
+    color: #8c52ff;
+}
+.subtitulo{
+    font-size: 36px;
+    text-align: left;
+    color: #8c52ff;
+}
+.texto {
+    font-size: 28px;
+    text-align: center;
+    color: #8c52ff;
+}
+.epigrafe{
+    font-size: 24px;
+    text-align: center;
+    color: #8c52ff;
+    margin-top: 0px;
+}
+main ol li{    
+    font-size: 36px;
+    text-align: center;
+    color: #8c52ff;
+    font-weight: bold;
+}
+main ol li p{   
+    font-size: 28px;
+    text-align: center;
+    color: #8c52ff;
+    font-weight: lighter;
+}
+.centrar{
+    text-align: center;
+  }
+.navegacionInterna{
+    font-family: "lato";
+    color:#4d2a92;
+    font-size: 10px;
+}
+
+a{ 
+    text-decoration: none; 
+}
+footer{ font-size: 15px;
+    color: #8c52ff;
+    text-align: center;
+}
+
+.ul {
+    list-style-type: none;
+    text-align: center
+  }
+  
+.li {
+    background-color: #F6E3CA;
+    border: #8c52ff 2px solid;
+    display: inline;
+    margin-right: 10px;
+  }
+  
+.a {
+    color: #8c52ff;
+    font-family: "lato";
+    font-size: 18px;
+    padding: 0 4px;
+    text-decoration: none;
+  }
+  
+a:hover {
+    color: #e872f3;
+  }
+
+ol li {
+    list-style: none;
+}  
+ul li{
+    list-style: none;
+}
+form{
+    font-size: 26px;
+    font-family:"sacramento";
+    color: #8c52ff;
+}
+input, textarea{
+    font-family:"lato";
+    font-size: 18px;
+    color: #8c52ff;
+}
+
+
+main section article{
+    width: 50%;
+    float: left;
+}
+main section aside{ 
+    width: 50%;
+    float: left;
+
+}
+
+main section aside div{ 
+    width: 45%;
+    float: left;
+    padding left: 10px;
+    margin: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.iframe {
+    text-align: center;
+    margin-left: 65px;
+}
+
+.box {
+    display: inline-block;
+    width: 47%;
+    margin-left: 25px;
+}
+.box2 {
+    display: inline-block;
+    width: 47%;
+    margin-left: 25px
+}
